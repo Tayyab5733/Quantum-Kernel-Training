@@ -14,3 +14,7 @@ This project implements a **Quantum Kernel Learning** algorithm using Qiskit. It
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+# Quantum Kernel Overlap Plot
+- The encoding of classical data into quantum states.
+- The entanglement pattern applied between qubits.
+- The measurement operations that extract the final probabilities.
