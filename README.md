@@ -19,3 +19,8 @@ This project implements a **Quantum Kernel Learning** algorithm using Qiskit. It
 - The entanglement pattern applied between qubits.
 - The measurement operations that extract the final probabilities.
 - ![Image Alt](https://github.com/Tayyab5733/Quantum-Kernel-Training/blob/f422e2f52a5ff9531edd93170d5dd8beca1d0541/first.png)
+## Optimized Quantum Circuit Plot on IBM Quantum Backend
+- The transpiled quantum circuit optimized for execution on real quantum hardware.
+- Gate rearrangements and optimizations performed by Qiskit's preset pass manager.
+- The elimination of idle qubits (`idle_wires=False`), making the circuit more efficient.
+- The final structure of the circuit, showing how it will be executed on the IBM Quantum device.
