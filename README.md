@@ -37,4 +37,6 @@ The plot visualizes:
 - A color gradient (`Viridis` scale) to indicate the strength of fidelity between pairs.
 - Data points where each `(x, y)` pair represents two training samples, with color intensity reflecting their fidelity.
 - ![Image Alt](https://github.com/Tayyab5733/Quantum-Kernel-Training/blob/5b45f2aef148fcaebe8605f572de45af1a1c9c13/fourth.png)
-- Wanna do this visual insight by yourself ? Get your own token form [IBM Quantum Learning](https://learning.quantum.ibm.com/)
+
+ 
+ Wanna do this visual insight by yourself ? Get your own token form [IBM Quantum Learning](https://learning.quantum.ibm.com/)
