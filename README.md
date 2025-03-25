@@ -18,3 +18,4 @@ This project implements a **Quantum Kernel Learning** algorithm using Qiskit. It
 - The encoding of classical data into quantum states.
 - The entanglement pattern applied between qubits.
 - The measurement operations that extract the final probabilities.
+- https://github.com/Tayyab5733/Quantum-Kernel-Training/blob/f422e2f52a5ff9531edd93170d5dd8beca1d0541/first.png
